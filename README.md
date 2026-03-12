@@ -59,9 +59,3 @@ Capturas de pantalla
 
 <img width="1366" height="768" alt="main" src="https://github.com/user-attachments/assets/045da734-2084-4031-806a-61e6d064ba10" />
 
-
-
-
-git clone https://github.com/ValDevAR/inventario-perecederos-python.git
-cd i
-nventario-perecederos-python
