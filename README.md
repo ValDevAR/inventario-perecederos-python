@@ -41,8 +41,8 @@ Sigue estos pasos para poder ejecutar el programa:
    pip install -r requirements.txt
 
 4. **Configura la conexión a la base de datos**
-   ```bash
    Crea un archivo llamado .env en la raíz del proyecto con el siguiente contenido:
+   ```env
    DB_HOST=localhost
    DB_USER=root
    DB_PASSWORD=tu_contraseña_aquí
