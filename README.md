@@ -38,6 +38,7 @@ Sigue estos pasos para poder ejecutar el programa:
    cd inventario-perecederos-python
    
 2. **Instala las dependencias**
+   ```bash
    pip install -r requirements.txt
 
 4. **Configura la conexión a la base de datos**
