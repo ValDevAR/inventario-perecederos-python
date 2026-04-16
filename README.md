@@ -38,9 +38,11 @@ Sigue estos pasos para poder ejecutar el programa:
    cd inventario-perecederos-python
    
 2. **Instala las dependencias**
+   Bash
    pip install -r requirements.txt
 
-3. **Configura la conexión a la base de datos**
+4. **Configura la conexión a la base de datos**
+   env
    Crea un archivo llamado .env en la raíz del proyecto con el siguiente contenido:
    DB_HOST=localhost
    DB_USER=root
@@ -48,7 +50,8 @@ Sigue estos pasos para poder ejecutar el programa:
    DB_NAME=inventario_perecederos
    DB_PORT=3306
    
-4. **Ejecuta el programa**
+6. **Ejecuta el programa**
+   Bash
    python main.py
 
 ## 📸 Capturas de pantalla
