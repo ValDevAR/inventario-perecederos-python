@@ -1,53 +1,56 @@
- 📦 Inventario de Productos Perecederos
- 
-Sistema de gestión de inventario desarrollado en Python con interfaz gráfica moderna
+ # 📦 Inventario de Productos Perecederos
 
+Sistema de gestión de inventario desarrollado en **Python** con interfaz gráfica moderna.  
 Especialmente diseñado para controlar productos perecederos (alimentos, lácteos, medicamentos, cosméticos, etc.), permitiendo llevar un seguimiento del stock y recibir alertas cuando los productos están próximos a vencer.
 
- ✨ Características principales
- 
-•	Agregar nuevos productos con fecha de vencimiento
-•	Listar todos los productos
-•	Buscar productos por nombre o categoría
-•	Actualizar stock y datos del producto
-•	Eliminar productos
-•	Alertas automáticas de productos próximos a vencer
-•	Interfaz gráfica moderna y fácil de usar (CustomTkinter)
-•	Conexión segura con base de datos MySQL
+## ✨ Características principales
 
-🛠 Tecnologías utilizadas
+- Agregar nuevos productos con fecha de vencimiento
+- Listar todos los productos
+- Buscar productos por nombre o categoría
+- Actualizar stock y datos del producto
+- Eliminar productos
+- **Alertas automáticas** de productos próximos a vencer
+- Interfaz gráfica moderna y fácil de usar (CustomTkinter)
+- Conexión segura con base de datos MySQL / MariaDB
 
-•	Python 3.8 o superior
-•	CustomTkinter (para la interfaz gráfica)
-•	MySQL
-•	mysql-connector-python
-•	python-dotenv (para manejar credenciales de forma segura)
+## 🛠 Tecnologías utilizadas
 
-Requisitos previos
-•	- Python 3.8+
-•	- MySQL o MariaDB instalado y corriendo
-•	- Una base de datos creada (recomendado: “inventario_perecederos”)
+- Python 3.8 o superior
+- CustomTkinter (para la interfaz gráfica)
+- MySQL / MariaDB
+- mysql-connector-python
+- python-dotenv (para manejar credenciales de forma segura)
 
-🚀 Instalación y ejecución
+## Requisitos previos
+
+- Python 3.8 o superior
+- MySQL o MariaDB instalado y corriendo
+- Una base de datos creada (recomendado: `inventario_perecederos`)
+
+## 🚀 Instalación y ejecución
+
 Sigue estos pasos para poder ejecutar el programa:
 
-1. Clona el repositorio
+1. **Clona el repositorio**
+   ```bash
    git clone https://github.com/ValDevAR/inventario-perecederos-python.git
    cd inventario-perecederos-python
-2. Instala dependencias
+   
+2. **Instala las dependencias**
    pip install -r requirements.txt
 
-3. Configura la conexión a la base de datos
- Crea un archivo llamado .env en la raíz del proyecto y agrega lo siguiente:
+3. **Configura la conexión a la base de datos**
+   Crea un archivo llamado .env en la raíz del proyecto con el siguiente contenido:
+   DB_HOST=localhost
+   DB_USER=root
+   DB_PASSWORD=tu_contraseña_aquí
+   DB_NAME=inventario_perecederos
+   DB_PORT=3306
+   
+4. **Ejecuta el programa**
+   python main.py
 
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=tu_contraseña_aquí
-DB_NAME=inventario_perecederos
-DB_PORT=3306
-
-4. Ejecuta el programa
-python main.py
-
-📸 Capturas de pantalla
- 
+📸 **Capturas de pantalla**
+<img src="https://github.com/user-attachments/assets/045da734-2084-4031-806a-61e6d064ba10" width="800" alt="Pantalla principal">
+(Podés agregar más imágenes aquí)
