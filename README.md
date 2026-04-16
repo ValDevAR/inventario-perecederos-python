@@ -51,6 +51,6 @@ Sigue estos pasos para poder ejecutar el programa:
 4. **Ejecuta el programa**
    python main.py
 
-📸 **Capturas de pantalla**
+## 📸 Capturas de pantalla
 <img src="https://github.com/user-attachments/assets/045da734-2084-4031-806a-61e6d064ba10" width="800" alt="Pantalla principal">
 (Podés agregar más imágenes aquí)
