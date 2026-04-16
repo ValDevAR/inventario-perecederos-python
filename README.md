@@ -5,36 +5,42 @@ Sistema de gestión de inventario desarrollado en Python con interfaz gráfica m
 Especialmente diseñado para controlar productos perecederos (alimentos, lácteos, medicamentos, cosméticos, etc.), permitiendo llevar un seguimiento del stock y recibir alertas cuando los productos están próximos a vencer.
 
  ✨ Características principales
- 
-	- Agregar nuevos productos con fecha de vencimiento
-	- Listar todos los productos
-	- Buscar productos por nombre o categoría
-	- Actualizar stock y datos del producto
-	- Eliminar productos
-	- Alertas automáticas de productos próximos a vencer
-	- Interfaz gráfica moderna y fácil de usar (CustomTkinter)
-	- Conexión segura con base de datos MySQL
+  
+•	Agregar nuevos productos con fecha de vencimiento
+•	Listar todos los productos
+•	Buscar productos por nombre o categoría
+•	Actualizar stock y datos del producto
+•	Eliminar productos
+•	Alertas automáticas de productos próximos a vencer
+•	Interfaz gráfica moderna y fácil de usar (CustomTkinter)
+•	Conexión segura con base de datos MySQL
+
 🛠 Tecnologías utilizadas
-	-  Python 3.8 o superior
-	-  CustomTkinter (para la interfaz gráfica)
-	-  MySQL
-	-  mysql-connector-python
-	-  python-dotenv (para manejar credenciales de forma segura)
+
+•	Python 3.8 o superior
+•	CustomTkinter (para la interfaz gráfica)
+•	MySQL
+•	mysql-connector-python
+•	python-dotenv (para manejar credenciales de forma segura)
 
 Requisitos previos
+
 •	- Python 3.8+
 •	- MySQL o MariaDB instalado y corriendo
 •	- Una base de datos creada (recomendado: “inventario_perecederos”)
 
 🚀 Instalación y ejecución
+
 Sigue estos pasos para poder ejecutar el programa:
+
 1. Clona el repositorio
    git clone https://github.com/ValDevAR/inventario-perecederos-python.git
    cd inventario-perecederos-python
-2. Instala dependencias
+   
+3. Instala dependencias
    pip install -r requirements.txt
 
-3. Configura la conexión a la base de datos
+4. Configura la conexión a la base de datos
  Crea un archivo llamado .env en la raíz del proyecto y agrega lo siguiente:
 
 DB_HOST=localhost
