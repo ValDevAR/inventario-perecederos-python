@@ -50,9 +50,20 @@ Ideal para pequeños comercios, farmacias o uso educativo.
 
 ## 📸 Capturas de pantalla
 
+### 🏠 Pantalla principal
 <img src="https://github.com/user-attachments/assets/045da734-2084-4031-806a-61e6d064ba10" width="800" alt="Pantalla principal">
 
-*(Próximamente: más capturas y GIF demostrando las alertas)*
+### ➕ Alta de producto
+<img ...>
+
+### 📋 Gestión de inventario
+<img ...>
+
+### 🚨 Alertas de vencimiento
+<img ...>
+
+### 🔎 Búsqueda de productos
+<img ...>
 
 ---
 
