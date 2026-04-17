@@ -4,9 +4,11 @@
 Especialmente diseñado para controlar **productos perecederos** (alimentos, lácteos, medicamentos, cosméticos, etc.).
 Permite llevar un seguimiento del stock y recibir **alertas automáticas** cuando los productos están próximos a vencer.
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square\&logo=python)
+Ideal para pequeños comercios, farmacias o uso educativo.
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-5.x-%2300A4EF?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-4479A1?style=flat-square\&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-4479A1?style=flat-square&logo=mysql)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 ---
@@ -85,7 +87,14 @@ python main.py
 > Nota: La primera vez que ejecutes el programa, se creará automáticamente la base de datos y las tablas necesarias.
 
 ---
+## 🚧 Futuras mejoras
 
+- Exportación de reportes en PDF
+- Sistema de usuarios
+- Notificaciones por email
+
+---
+  
 ## 🤝 Cómo contribuir
 
 Las contribuciones son bienvenidas. Si quieres mejorar el proyecto:
