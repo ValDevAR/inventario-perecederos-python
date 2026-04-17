@@ -6,6 +6,11 @@ Permite llevar un seguimiento del stock y recibir **alertas automáticas** cuand
 
 Ideal para pequeños comercios, farmacias o uso educativo.
 
+---
+
+## 📌 Estado del proyecto
+En desarrollo activo
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-5.x-%2300A4EF?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-4479A1?style=flat-square&logo=mysql)
@@ -87,11 +92,12 @@ python main.py
 > Nota: La primera vez que ejecutes el programa, se creará automáticamente la base de datos y las tablas necesarias.
 
 ---
+
 ## 🚧 Futuras mejoras
 
 - Exportación de reportes en PDF
-- Sistema de usuarios
-- Notificaciones por email
+- Sistema de usuarios con autenticación
+- Notificaciones por email de productos próximos a vencer
 
 ---
   
