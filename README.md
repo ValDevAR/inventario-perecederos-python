@@ -9,8 +9,8 @@ Ideal para pequeños comercios, farmacias o uso educativo.
 ---
 
 ## 📌 Estado del proyecto
-En desarrollo activo
 
+![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-orange)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-5.x-%2300A4EF?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-4479A1?style=flat-square&logo=mysql)
@@ -27,7 +27,7 @@ En desarrollo activo
 * 🗑️ Eliminar productos
 * 🚨 **Alertas automáticas** de productos próximos a vencer (con cambios de color)
 * 🎨 Interfaz gráfica moderna y fácil de usar con **CustomTkinter**
-* 🗄️ Uso de variables de entorno para la configuración de la base de datos
+* 🗄️ Configuración de la base de datos mediante variables de entorno
 
 ---
 
@@ -100,7 +100,7 @@ python main.py
 - Notificaciones por email de productos próximos a vencer
 
 ---
-  
+
 ## 🤝 Cómo contribuir
 
 Las contribuciones son bienvenidas. Si quieres mejorar el proyecto:
