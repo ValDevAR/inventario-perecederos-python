@@ -46,18 +46,19 @@ Sigue estos pasos para probar el sistema:
    ```bash
    pip install -r requirements.txt
 3. **Configura la conexión a la base de datos**
+   ```bash
    Crea un archivo .env en la raíz del proyecto:
-   env
+   
    DB_HOST=localhost
    DB_USER=root
    DB_PASSWORD=tu_contraseña_aquí
    DB_NAME=inventario_perecederos
    DB_PORT=3306
-4. **Ejecuta el programa**
+5. **Ejecuta el programa**
    ```bash
    python main.py
-   
-   Nota: La primera vez que ejecutes el programa, se creará automáticamente la base de datos y las tablas necesarias.
+
+Nota: La primera vez que ejecutes el programa, se creará automáticamente la base de datos y las tablas necesarias.
    
 📋 Requisitos previos
 
