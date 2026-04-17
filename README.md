@@ -50,7 +50,7 @@ Sigue estos pasos para poder ejecutar el programa:
    DB_NAME=inventario_perecederos
    DB_PORT=3306
    
-5. **Ejecuta el programa**
+4. **Ejecuta el programa**
    ```bash
    python main.py
 
