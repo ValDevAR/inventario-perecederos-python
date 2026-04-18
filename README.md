@@ -1,5 +1,3 @@
-<img width="1366" height="768" alt="alta_producto" src="https://github.com/user-attachments/assets/0bfd58a8-4102-4d0f-96a7-3c25a66ebacc" />
-<img width="1366" height="768" alt="alta_producto" src="https://github.com/user-attachments/assets/2fd10cba-bd5a-4288-9f77-9327b6c80587" />
 # 📦 Inventario de Productos Perecederos
 
 **Sistema de gestión de inventario** desarrollado en **Python** con interfaz gráfica moderna.
