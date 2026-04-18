@@ -64,7 +64,10 @@ Ideal para pequeños comercios, farmacias o uso educativo.
 
 
 ### 🔎 Listado de productos
-<img width="1366" height="768" alt="Listado de productos" src="https://github.com/user-attachments/assets/218e05ee-d40f-440e-a625-07c39c884ae0" />
+<img width="1366" height="768" alt="Listado de Productos" src="https://github.com/user-attachments/assets/218e05ee-d40f-440e-a625-07c39c884ae0" />
+
+### 🗑️ Eliminación de producto
+<img width="1366" height="768" alt="Eliminar Producto" src="https://github.com/user-attachments/assets/07e39e04-49da-41ca-b291-693d8946bfab" />
 
 ---
 
