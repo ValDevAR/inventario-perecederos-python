@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="alta_producto" src="https://github.com/user-attachments/assets/0bfd58a8-4102-4d0f-96a7-3c25a66ebacc" />
+<img width="1366" height="768" alt="alta_producto" src="https://github.com/user-attachments/assets/2fd10cba-bd5a-4288-9f77-9327b6c80587" />
 # 📦 Inventario de Productos Perecederos
 
 **Sistema de gestión de inventario** desarrollado en **Python** con interfaz gráfica moderna.
@@ -54,16 +56,17 @@ Ideal para pequeños comercios, farmacias o uso educativo.
 <img src="https://github.com/user-attachments/assets/045da734-2084-4031-806a-61e6d064ba10" width="800" alt="Pantalla principal">
 
 ### ➕ Alta de producto
-<img ...>
+<img width="1366" height="768" alt="Alta de Producto" src="https://github.com/user-attachments/assets/b20a7e7f-dd83-4d6a-9c7f-7ab399dd92d1" />
 
 ### 📋 Gestión de inventario
-<img ...>
+<img width="1366" height="768" alt="Registrar Movimiento" src="https://github.com/user-attachments/assets/d2f0df6a-22f9-4bc9-8548-b30728cbb7ab" />
 
 ### 🚨 Alertas de vencimiento
-<img ...>
+<img width="1366" height="768" alt="Productos Vencidos" src="https://github.com/user-attachments/assets/8e8d9cd7-cf99-45b3-8b0d-1a384bc5ec82" />
 
-### 🔎 Búsqueda de productos
-<img ...>
+
+### 🔎 Listado de productos
+<img width="1366" height="768" alt="Listado de productos" src="https://github.com/user-attachments/assets/218e05ee-d40f-440e-a625-07c39c884ae0" />
 
 ---
 
