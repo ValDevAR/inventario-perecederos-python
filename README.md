@@ -54,20 +54,19 @@ Ideal para pequeños comercios, farmacias o uso educativo.
 <img src="https://github.com/user-attachments/assets/045da734-2084-4031-806a-61e6d064ba10" width="800" alt="Pantalla principal">
 
 ### ➕ Alta de producto
-<img width="1366" height="768" alt="Alta de Producto" src="https://github.com/user-attachments/assets/b20a7e7f-dd83-4d6a-9c7f-7ab399dd92d1" />
+<img src="https://github.com/user-attachments/assets/b20a7e7f-dd83-4d6a-9c7f-7ab399dd92d1" width="800" alt="Alta de Producto">
 
 ### 📋 Gestión de inventario
-<img width="1366" height="768" alt="Registrar Movimiento" src="https://github.com/user-attachments/assets/d2f0df6a-22f9-4bc9-8548-b30728cbb7ab" />
+<img src="https://github.com/user-attachments/assets/d2f0df6a-22f9-4bc9-8548-b30728cbb7ab" width="800" alt="Registrar Movimiento">
 
 ### 🚨 Alertas de vencimiento
-<img width="1366" height="768" alt="Productos Vencidos" src="https://github.com/user-attachments/assets/8e8d9cd7-cf99-45b3-8b0d-1a384bc5ec82" />
-
+<img src="https://github.com/user-attachments/assets/8e8d9cd7-cf99-45b3-8b0d-1a384bc5ec82" width="800" alt="Productos Vencidos">
 
 ### 🔎 Listado de productos
-<img width="1366" height="768" alt="Listado de Productos" src="https://github.com/user-attachments/assets/218e05ee-d40f-440e-a625-07c39c884ae0" />
+<img src="https://github.com/user-attachments/assets/218e05ee-d40f-440e-a625-07c39c884ae0" width="800" alt="Listado de Productos">
 
 ### 🗑️ Eliminación de producto
-<img width="1366" height="768" alt="Eliminar Producto" src="https://github.com/user-attachments/assets/07e39e04-49da-41ca-b291-693d8946bfab" />
+<img src="https://github.com/user-attachments/assets/07e39e04-49da-41ca-b291-693d8946bfab" width="800" alt="Eliminar Producto">
 
 ---
 
